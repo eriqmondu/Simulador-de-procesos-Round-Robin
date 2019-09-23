@@ -8,6 +8,8 @@ Facultad de Ingeniería, UNAM
 
 Sistemas Operativos
 
+Simulador de procesos que utiliza el algoritmo de Round Robin para administrarlos dentro de un SO. Incluye visualización de colas de procesos y el cómo se van procesando por la CPU según su tiempo asignado (quantum). Útil para estudiar el comportamiento paso a paso de dicho algoritmo. 
+
 ## Instrucciones de instalación
 
 Clonar este repositorio
