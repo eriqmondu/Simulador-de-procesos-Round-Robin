@@ -1,6 +1,7 @@
 ![java](java.png)
 
-# Simulador de procesos usando el algoritmo de Round Robin
+# Simulador de procesos
+# Algoritmo "Round Robin"
 
 **Implementado por: Erik Valdez Mondragón**
 
